@@ -47,4 +47,5 @@ REST API
 --------
 
 The REST API enables user querying, creation, modification and deletion by using the standard http methods GET, POST, PUT and DELETE.
+The REST API works mainly with _application/json_, but can also give _text/plain_ based responses. The use of an "_Accept_" header is mandatory.
 
