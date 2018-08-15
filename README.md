@@ -40,7 +40,7 @@ The system has a built-in security system. Login credentials follow:
 | page1user  | 1234     | PAGE_1         |
 | page2user  | 1234     | PAGE_2         |
 | page3user  | 1234     | PAGE_3         |
-| page12user | 1234     | PAGE_1, PAGE_3 |
+| page12user | 1234     | PAGE_1, PAGE_2 |
 | admin      | 1234     | ADMIN          |
 
 REST API
